@@ -29,7 +29,7 @@ int main()
 }
 
 /*output:
-enter name: sreeja
+enter name: Hari
 enter age: 18
-Name: sreeja
+Name: Hari
 Age:18*/
