@@ -40,3 +40,7 @@ int main()
 	delete s_ptr;
 	getch();
 }
+
+/*output
+Data1 = 25
+Data2 =A*/
