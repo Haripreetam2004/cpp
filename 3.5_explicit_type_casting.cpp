@@ -16,6 +16,7 @@ int main()
 }
 
 /*output:
- Basic       950
- Allowance        95
-     Total      1045*/
+intvar = 25
+floatvar = 54.32
+float(intvar) = 25
+int(floatvar) = 54*/
