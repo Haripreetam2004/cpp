@@ -27,3 +27,9 @@ int main()
 	p.display();
 	return 0;
 }
+
+/*output:
+enter name: sreeja
+enter age: 18
+Name: sreeja
+Age:18*/
