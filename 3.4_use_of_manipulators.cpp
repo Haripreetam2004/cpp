@@ -10,3 +10,7 @@ int main()
     return 0;
 }
 
+/*output:
+ Basic       950
+ Allowance        95
+     Total      1045*/
