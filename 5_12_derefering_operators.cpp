@@ -35,3 +35,7 @@ int main()
 	 
 	 return 0;
 }
+
+/* output
+SUM = 30
+SUM = 70 */
