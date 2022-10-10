@@ -44,6 +44,13 @@ int main()
 	
 	return 0;
 }
+/* output
+values before exchange
+100
+200
+values after exchange
+200
+100 */
 
 
 
